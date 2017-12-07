@@ -1,10 +1,4 @@
 
-/**
- * Write a description of class AdventureBegin here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class AdventureBegin
 {
     public static void adventureBegin()
